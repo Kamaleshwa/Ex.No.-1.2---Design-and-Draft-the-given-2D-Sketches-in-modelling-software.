@@ -36,6 +36,9 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+![kml EX 1 2_page-0001 (1)](https://github.com/Kamaleshwa/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/144980199/6ec33e35-fa8e-4a98-a24d-5d8d66b72a34)
+
+
  
  
  ## RESULT
